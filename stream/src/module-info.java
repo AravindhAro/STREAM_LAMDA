@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author fasoftwares
+ *
+ */
+module stream {
+}
